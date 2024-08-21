@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dlsathvik04/P2Pchat/pkg/jwt"
+	"github.com/dlsathvik04/golibs/jwt"
 )
 
 func TestSHA256JWTManager(t *testing.T) {
